@@ -1,0 +1,11 @@
+.collaps .content {
+    border-radius: 5px;
+    overflow: hidden;
+    transition: height ease 0.5s;
+}
+
+.collaps .content-parent {
+    height: 0px;
+    overflow: hidden;
+    transition: height ease .5s;
+}
