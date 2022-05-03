@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Collaps-ReactJS/static/css/main.bbaa0550.css",
+    "main.js": "/Collaps-ReactJS/static/js/main.951f54f8.js",
+    "static/media/deadrose.jpg": "/Collaps-ReactJS/static/media/deadrose.7689ec6bbad2a6c52176.jpg",
+    "index.html": "/Collaps-ReactJS/index.html",
+    "main.bbaa0550.css.map": "/Collaps-ReactJS/static/css/main.bbaa0550.css.map",
+    "main.951f54f8.js.map": "/Collaps-ReactJS/static/js/main.951f54f8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bbaa0550.css",
+    "static/js/main.951f54f8.js"
+  ]
+}
